@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+qdrant-client
+sentence-transformers
+python-dotenv
+openpyxl
